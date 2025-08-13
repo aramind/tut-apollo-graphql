@@ -40,3 +40,11 @@
 .read-the-docs {
   color: #888;
 }
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  color: rgb(203, 203, 104);
+}
